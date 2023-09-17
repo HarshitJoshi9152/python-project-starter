@@ -1,5 +1,5 @@
 
-# Python Project started
+# Python Project starter
 
 ## To Get Started
 
